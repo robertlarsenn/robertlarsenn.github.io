@@ -98,8 +98,8 @@ color: white;
 	
 }
 img {
-	max-height: 500px;
-	max-width: 500px;
+	max-height:200px;
+	max-width: 200px;
 }
 
 a {
@@ -137,7 +137,8 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
-
+       max-height: 200px;
+	max-width: 200px;
    
 
 }
