@@ -12,7 +12,9 @@ body {
 
 	
 }
-
+tr,td {
+      display: inline-block;
+}
 .container h1 {
 
 	color: #4169E1;
