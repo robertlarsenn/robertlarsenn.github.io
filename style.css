@@ -142,8 +142,9 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
-      max-height: inherit;
-	max-width: inherit;
+max-height:min(100vh,400px);
+	max-width: min(100vw,400px);
+
    
 
 }
