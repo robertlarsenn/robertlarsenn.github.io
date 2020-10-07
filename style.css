@@ -15,6 +15,9 @@ body {
 tr,td {
       display: inline-block;
 }
+tr {
+      display: block;
+}
 .container h1 {
 
 	color: #4169E1;
@@ -100,8 +103,8 @@ color: white;
 	
 }
 img {
-	max-height:min(100vh,400px);
-	max-width: min(100vw,400px);
+	max-height: inherit;
+	max-width: inherit;
 }
 
 a {
@@ -139,8 +142,8 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
-       max-height: 400px;
-	max-width: 400px;
+      max-height: inherit;
+	max-width: inherit;
    
 
 }
@@ -148,7 +151,8 @@ a {
 .image-wrapper-other  a:hover {
 		color: blue;
 		text-decoration: underline;
-
+max-height:min(100vh,400px);
+	max-width: min(100vw,400px);
 
 }
 
