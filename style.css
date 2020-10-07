@@ -100,8 +100,8 @@ color: white;
 	
 }
 img {
-	max-height:400px;
-	max-width: 400px;
+	max-height:min(100vh,400px);
+	max-width: min(100vw,400px);
 }
 
 a {
