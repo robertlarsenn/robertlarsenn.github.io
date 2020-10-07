@@ -4,18 +4,12 @@ body {
 
 		 font-family: Garamond;
 		 font-size: 24px;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 }
 .top {
     background-color: white;
 	display: block;
- padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 	
 }
 
@@ -24,20 +18,14 @@ body {
 	color: #4169E1;
 	display: block;
 	text-align: center;
-		 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 }
 
 .containerSpecial {
 
 	text-align: center;
 	background-color: #87CEFA;
-		 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 
 }
 
@@ -45,47 +33,34 @@ body {
 
 	text-align: center;
 	background-color: #87CEFA;
-		 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 
 }
 
 legend {
 		color: blue;
 		font-size: 34px;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 }
 
 input {
  text-align: left;	
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 }
 
 label {
 		color: black;
 		font-size: 24px;
-		 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+		 padding-top: 5px;
+  	 padding-right: 5px;
+         padding-bottom: 5px;
+         padding-left: 5px;
 }
 fieldset {
  text-align: left;
 background-color: #87CEFA;
 color: white; 
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
-}
+
 .nav {
     background-color:#87CEFA ;
 	display: block;
@@ -96,10 +71,7 @@ color: white;
    background-color:#F0F8FF	;
 
    display: block;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 
 }
 
@@ -107,41 +79,34 @@ color: white;
 
   background-color:#B0C4DE 	;
   display: block;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+	 padding-top: 5px;
+  	 padding-right: 5px;
+         padding-bottom: 5px;
+         padding-left: 5px;
 
 }
 .image-wrapper-logo {
 
 	background-color:inherit;
 	display: inline-block;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 	
 	
 	
 	
 }
 img {
-	max-height: 10px;
+	max-height: 5px;
 	max-width: 500px;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
-}
+
 
 a {
 	text-decoration: none;
 	color: black;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+	 padding-top: 5px;
+  	 padding-right: 5px;
+         padding-bottom: 5px;
+         padding-left: 5px;
 }
 
 .description-wrapper,.description-wrapper p  {
@@ -150,10 +115,10 @@ a {
 	width:  inherit;
 	max-width:  inherit;
 	text-align: center;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+	 padding-top: 5px;
+  	 padding-right: 5px;
+         padding-bottom: 5px;
+         padding-left: 5px;
 }
 
 .image-wrapper-banner {
@@ -161,10 +126,7 @@ a {
 	background-color:inherit;
 	display: inline-block;
 	height: inherit;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 
 	
 	
@@ -173,10 +135,7 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
    
 
 }
@@ -184,20 +143,17 @@ a {
 .image-wrapper-other  a:hover {
 		color: blue;
 		text-decoration: underline;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 
 }
 
 
 .button-wrapper {
 		display: inline-block;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+	 padding-top: 5px;
+  	 padding-right: 5px;
+         padding-bottom: 5px;
+         padding-left: 5px;
 
 		
 }
@@ -205,10 +161,7 @@ a {
 		display: inline-block;
 	    position: fixed; 
 		bottom: 0;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 		
 }
 
@@ -220,10 +173,7 @@ a {
 		border-radius: 4px;
 		font-size: 35px;
 	    font-family: Garamond;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 		
 		
 }
@@ -234,10 +184,7 @@ a {
 		border-radius: 4px;
 		font-size: 35px;
 	    font-family: Garamond;
-	 padding-top: 10px;
-  	 padding-right: 10px;
-         padding-bottom: 10px;
-         padding-left: 10px;
+
 		
 		
 }
