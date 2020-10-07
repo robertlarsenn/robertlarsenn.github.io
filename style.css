@@ -12,7 +12,10 @@ body {
 .top {
     background-color: white;
 	display: block;
-
+ padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 	
 }
 
@@ -52,10 +55,18 @@ body {
 legend {
 		color: blue;
 		font-size: 34px;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 
 input {
  text-align: left;	
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 
 label {
@@ -70,6 +81,10 @@ fieldset {
  text-align: left;
 background-color: #87CEFA;
 color: white; 
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 .nav {
     background-color:#87CEFA ;
@@ -81,6 +96,10 @@ color: white;
    background-color:#F0F8FF	;
 
    display: block;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 
 }
 
@@ -88,12 +107,20 @@ color: white;
 
   background-color:#B0C4DE 	;
   display: block;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 
 }
 .image-wrapper-logo {
 
 	background-color:inherit;
 	display: inline-block;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 	
 	
 	
@@ -102,11 +129,19 @@ color: white;
 img {
 	max-height: 100px;
 	max-width: 500px;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 
 a {
 	text-decoration: none;
 	color: black;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 
 .description-wrapper,.description-wrapper p  {
@@ -115,6 +150,10 @@ a {
 	width:  inherit;
 	max-width:  inherit;
 	text-align: center;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 }
 
 .image-wrapper-banner {
@@ -122,6 +161,10 @@ a {
 	background-color:inherit;
 	display: inline-block;
 	height: inherit;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 
 	
 	
@@ -130,6 +173,10 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
    
 
 }
@@ -137,12 +184,20 @@ a {
 .image-wrapper-other  a:hover {
 		color: blue;
 		text-decoration: underline;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 
 }
 
 
 .button-wrapper {
 		display: inline-block;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 
 		
 }
@@ -150,6 +205,10 @@ a {
 		display: inline-block;
 	    position: fixed; 
 		bottom: 0;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 		
 }
 
@@ -161,9 +220,10 @@ a {
 		border-radius: 4px;
 		font-size: 35px;
 	    font-family: Garamond;
-		margin-bottom: 5px;
-		margin-top: 5px;
-		margin-left: 40px;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 		
 		
 }
@@ -174,9 +234,10 @@ a {
 		border-radius: 4px;
 		font-size: 35px;
 	    font-family: Garamond;
-		margin-bottom: 5px;
-		margin-top: 5px;
-		margin-left: 40px;
+	 padding-top: 100px;
+  	 padding-right: 100px;
+         padding-bottom: 100px;
+         padding-left: 100px;
 		
 		
 }
