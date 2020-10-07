@@ -45,7 +45,7 @@ legend {
 
 input {
  text-align: left;	
-
+	display: inline-block;
 }
 
 label {
@@ -55,12 +55,14 @@ label {
   	 padding-right: 5px;
          padding-bottom: 5px;
          padding-left: 5px;
+	display: inline-block;
 }
 fieldset {
  text-align: left;
 background-color: #87CEFA;
 color: white; 
-
+		display: inline-block;
+}
 .nav {
     background-color:#87CEFA ;
 	display: block;
