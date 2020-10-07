@@ -98,8 +98,8 @@ color: white;
 	
 }
 img {
-	max-height:400px;
-	max-width: 400px;
+	max-height: min(inherit,400px);
+	max-width: min(inherit,400px);
 }
 
 a {
@@ -137,8 +137,8 @@ a {
 .image-wrapper-other {
 	background-color:inherit;
 	display: inline-block;
-       max-height: 400px;
-	max-width: 400px;
+       max-height: min(inherit,400px);
+	max-width: min(inherit,400px);
    
 
 }
