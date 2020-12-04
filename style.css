@@ -164,7 +164,6 @@ a {
 	background-color:inherit;
 	display: inline-block;
 	height: inherit;
-max-height:min(100vh,400px);
 	max-width: min(100vw,400px);
 
 	
@@ -184,7 +183,7 @@ max-height:min(100vh,400px);
 .image-wrapper-other  a:hover {
 		color: blue;
 		text-decoration: underline;
-max-height:min(100vh,400px);
+
 	max-width: min(100vw,400px);
 
 }
